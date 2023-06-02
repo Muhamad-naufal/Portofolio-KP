@@ -1,6 +1,4 @@
 import React from 'react';
-// import icons
-import { BsArrowUpRight } from 'react-icons/bs'
 // import Motion
 import { motion } from 'framer-motion';
 // import Variants
